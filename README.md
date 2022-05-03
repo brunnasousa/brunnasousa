@@ -27,4 +27,3 @@
  	
 </div>
  
-  ![Snake animation](https://github.com/brunnasousa/brunnasousa/blob/output/github-contribution-grid-snake.svg)
