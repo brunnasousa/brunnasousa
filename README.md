@@ -3,8 +3,7 @@
 
 ##   Sou estudante de desenvolvimento front-end👩🏻‍💻
 
-- 💻 Front-end (HTML, CSS e JavaScript)
-- ⏳ Planos 2022: Solucionar problemas através do desenvolvimento e da computação.
+- 💻 Front-end 
 - 🧩 Acadêmica de Sistemas de Informação
 
 ###  Habilidades:
