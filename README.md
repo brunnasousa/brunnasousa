@@ -3,10 +3,10 @@
 
 ##   Área de Interesse: 👩🏻‍💻
 
-- 💻 Inteligência Artificial, Machine Learning e Data Science
-- 🤖 Google Cloud 
+- 💻 Pós Graduanda em Inteligência Artificial, Machine Learning e Data Science
+- 🤖 Aspirante em Google Cloud 
 - 🧩 Acadêmica de Sistemas de Informação - UFRA
-- 📚 Conhecimento em: Front End.
+- 📚 Conhecimento em Front End.
   
 
 ###  Habilidades:
