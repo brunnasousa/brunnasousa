@@ -1,10 +1,13 @@
 ###  Oi, sou a Brunna Sousa 😁
 
 
-##   Sou estudante de desenvolvimento front-end👩🏻‍💻
+##   Área de Interesse: 👩🏻‍💻
 
-- 💻 Front-end 
-- 🧩 Acadêmica de Sistemas de Informação
+- 💻 Inteligência Artificial, Machine Learning e Data Science
+- 🤖 Google Cloud 
+- 🧩 Acadêmica de Sistemas de Informação - UFRA
+- 📚 Conhecimento em: Front End.
+  
 
 ###  Habilidades:
   
