@@ -1,5 +1,7 @@
 ###  Oi, sou a Brunna Sousa 😁
 
+Gosto de desvendar padrões e extrair conhecimento de dados através do Machine Learning.
+
 
 ##   Área de Interesse: 👩🏻‍💻
 
@@ -12,6 +14,8 @@
 ###  Habilidades:
   
 <div>
+  <img alt="Brunna-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Brunna-Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img alt="Brunna-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="Brunna-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Brunna-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
